@@ -4,7 +4,7 @@ HackHarvard Submission Link:
 Code can be viewed using:
 - https://x.thunkable.com/copy/14e18f4ecd4d9f3f3f13a210d45055a2
   
-
+by Emma, Andrea, and Grace
 Our app is coded using the Thunkable Tool. The tool can be tested through a mobile device or on a desktop. The location functionality does not work unless tested on mobile.
 <img width="718" alt="Screenshot 2024-10-13 at 2 41 10 AM" src="https://github.com/user-attachments/assets/f7b1146f-4ed9-4860-8a2e-761c4261988d">
 <img width="1013" alt="Screenshot 2024-10-13 at 2 41 37 AM" src="https://github.com/user-attachments/assets/ffff937b-3db7-4745-918c-4a8d454b0338">
